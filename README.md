@@ -1,4 +1,4 @@
-# Early Evolution
+# Encounter Alias
 This script is for Pokémon Essentials. It allows using an encounter table defined in one map in other maps, thus avoiding duplicated data. Useful for multifloor caves/towers.
 
 ## Compatibility
